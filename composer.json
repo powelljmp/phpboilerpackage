@@ -1,0 +1,10 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"powelljmp\\phpboilerpackage\\" : "src"
+		}
+	},
+	"name" : "poweljmp/phpboilerpackage",
+	"minimum-stability" : "dev",
+	"description" : "Init boiler"
+}
